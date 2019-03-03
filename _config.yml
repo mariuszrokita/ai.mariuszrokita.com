@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mariusz Rokita"
+title                    : "Mariusz Rokita professionally"
 title_separator          : "-"
-name                     : "Data Science Portfolio"
+name                     : "Mariusz Rokita - name"
 description              : "Mariusz Rokita writing about data science, machine learning, and aboadly understood AI"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,9 +107,9 @@ analytics:
 # Site Author
 author:
   name             : "Mariusz Rokita"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
-  location         : "Wroclaw/Poland"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "Machine learning engineer, father, learner and jogger listening to audibooks"
+  location         : "Wrocław, Poland"
   email            :
   links:
     - label: "Email"
