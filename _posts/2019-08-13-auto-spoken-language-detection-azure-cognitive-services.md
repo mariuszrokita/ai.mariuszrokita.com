@@ -3,7 +3,7 @@ title: "Czy Azure Cognitive Services pomoże nam porozmawiać z obcokrajowcem?"
 date: 2019-08-13
 categories: [azure, cognitive services]
 tags: [azure, cognitive services, python]
-excertp: "Wstępna ocena jakości usług automatycznego wykrywania języka mówionego wraz z transkrypcją oferowanych przez Azure Cognitive Services."
+excerpt: "Wstępna ocena jakości usług automatycznego wykrywania języka mówionego wraz z transkrypcją oferowanych przez Azure Cognitive Services."
 ---
 
 ## Język angielski - nie zawsze jest to możliwe
