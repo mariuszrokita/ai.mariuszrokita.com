@@ -64,3 +64,5 @@ Warto też wspomnieć o jakości transkrypcji. Dla języków dobrze rozpoznanych
 1. język włoski - (nieprawidłowe "*“so che molti di voi ascolta uno podcas*" zamiast "*so que molti di voi ascoltano podcast*")
 
 jednak są to drobne nieprawidłowości i nie mają aż tak wielkiego wpływu na ogólne zrozumienie przekazu. Będąc na wakacjach w obcym kraju moglibyśmy po prostu poprosić rozmówcę o powtórzenie informacji.
+
+Wszystkich chętnych do samodzielnego przetestowania usługi zapraszam na [GitHub](https://github.com/mariuszrokita/azure-machine-learning/blob/master/cognitive-services/VideoIndexer%20-%20Auto%20language%20detection.ipynb), gdzie znajduje się kod źródłowy użyty w tym poście.
