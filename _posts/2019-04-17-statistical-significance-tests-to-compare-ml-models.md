@@ -3,7 +3,7 @@ title: "Który model ML jest lepszy? Czyli co nie co o testach istotności staty
 date: 2019-04-17
 #categories: [azure cli, devops]
 #tags: [azure cli, docker, devops, python]
-excertp: "Wykorzystanie testów istotności statystycznej do porównania wyników modeli uczenia maszynowego."
+excerpt: "Wykorzystanie testów istotności statystycznej do porównania wyników modeli uczenia maszynowego."
 ---
 
 Jednym z głównych zadań data scientist'a, czy też machine learning inżyniera jest modelowanie danych. Po długim etapie analizy zbioru danych, ich czyszczeniu, tworzeniu nowych atrybutów, wyborze najlepszych zmiennych, w końcu następuje faza modelowania. W dużym skrócie owa czynność polega na wyborze jednego lub kilku algorytmów, dostarczeniu do nich danych, a następnie na treningu - gdzie zadaniem algorytmu jest wykrycie relacji w dostarczonych danych i nauczenie się tej wiedzy. Model powinien być na tyle dobry, by poprawnie wykryć związki w danych treningowych, ale jednocześnie wykryta wiedza musi być na tyle ogólna, by model mógł ją skutecznie aplikować do nowych, dotychczas nieznanych danych.

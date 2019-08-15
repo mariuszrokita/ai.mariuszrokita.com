@@ -3,7 +3,7 @@ title: "Azure CLI in the Bash script"
 date: 2019-03-07
 #categories: [azure cli, devops]
 #tags: [azure cli, docker, devops, python]
-excertp: "Missing Azure CLI command in the bash script."
+excerpt: "Missing Azure CLI command in the bash script."
 ---
 
 Today I've been trying to write a simple bash script on my Windows machine to provision a new Blob Storage in the Microsoft Azure cloud. The beginning of the script looked quite simple:
