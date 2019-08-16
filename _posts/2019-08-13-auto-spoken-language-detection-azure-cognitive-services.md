@@ -40,7 +40,7 @@ Do oceny jakości automatycznej detekcji tekstu mówionego wykorzystano ścieżk
 1. [język niemiecki](https://www.youtube.com/watch?v=a7vokd6eFK4)
 1. [język włoski](https://www.youtube.com/watch?v=U8Ar3VhHe-I)
 
-Z każdego filmu video pobrano dokładnie pierwsze 75 sekund dźwięku. W ten sposób materiały audio są dłuższe o 25%, w stosunku do [minimalnych wymagań](https://docs.microsoft.com/en-us/azure/media-services/video-indexer/language-identification-model) dla przetwarzanych materiałów dźwiękowych.
+Każdy filmik został nagrany przez *native speakerów*, a ścieżki dźwiękowe nie mają dominujących szumów, czy innych zakłóceń. Z każdego filmu video pobrano dokładnie pierwsze 75 sekund dźwięku. W ten sposób materiały audio są dłuższe o 25%, w stosunku do [minimalnych wymagań](https://docs.microsoft.com/en-us/azure/media-services/video-indexer/language-identification-model) dla przetwarzanych materiałów dźwiękowych.
 
 ## Video Indexer - ocena jakości funkcji LID
 
